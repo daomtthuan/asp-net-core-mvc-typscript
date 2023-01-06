@@ -1,0 +1,48 @@
+{
+  "name": "project-client-scripts",
+  "displayName": "Project client scripts",
+  "version": "1.0.0",
+  "description": "Project client scripts",
+  "author": "Daomtthuan <daomtthuan@gmail.com> (https://github.com/daomtthuan)",
+  "scripts": {
+    "dev": "webpack"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.191",
+    "ts-loader": "^9.4.2",
+    "typescript": "^4.9.4",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  },
+  "homepage": "https://github.com/daomtthuan/asp-net-core-mvc-typscript-template",
+  "repository": "https://github.com/daomtthuan/asp-net-core-mvc-typscript-template.git",
+  "readme": "https://github.com/daomtthuan/asp-net-core-mvc-typscript-template/blob/main/README.md",
+  "bugs": {
+    "email": "daomtthuan@gmail.com",
+    "url": "https://github.com/daomtthuan/asp-net-core-mvc-typscript-template/issues"
+  },
+  "private": false,
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/daomtthuan/asp-net-core-mvc-typscript-template/blob/main/LICENSE"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Daomtthuan",
+      "email": "daomtthuan@gmail.com",
+      "url": "https://github.com/daomtthuan"
+    }
+  ],
+  "keywords": [
+    "asp.net core",
+    "mvc",
+    "typescript",
+    "template"
+  ]
+}
